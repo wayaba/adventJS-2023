@@ -2,13 +2,13 @@
 
 Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/)
 
-<img src="https://user-images.githubusercontent.com/37515166/205520596-3e0a1d76-85d0-43a2-9708-5c5a7b6687b6.png" height="200" />
+<img src="https://github.com/wayaba/adventJS-2023/assets/37515166/02d66832-bb18-4176-927a-383aa5c97ecc" height="200" />
 
 ## Retos :computer:
 
 | Día | Reto                                                                                     | Código                           | Arte                                                                                                                                       | Puntos |
 | --- | ---------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| 1   | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2022/1) | [solución](./src/challenge01.js) | <img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" /> | 160    |
+| 1   | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2022/1) | [solución](./src/challenge01.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/8505170f-9a56-4b35-92af-25eb8f3dd608" width="50" height="50" /> | 160    |
 
 
 ## Como ejecutar el código :running:
