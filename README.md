@@ -1,4 +1,4 @@
-# adventJS-2023 :santa: :christmas_tree: :bell:
+# AdventJS-2023 :santa: :christmas_tree: :bell:
 
 Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/)
 
@@ -8,7 +8,7 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 
 | Día | Reto                                                                                     | Código                           | Arte                                                                                                                                       | Puntos |
 | --- | ---------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| 1   | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2022/1) | [solución](./src/challenge01.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/8505170f-9a56-4b35-92af-25eb8f3dd608" width="50" height="50" /> | 160    |
+| 1   | [¡Primer regalo repetido!](https://adventjs.dev/es/challenges/2023/1) | [solución](./src/challenge01.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/8505170f-9a56-4b35-92af-25eb8f3dd608" width="50" height="50" /> | 160    |
 
 
 ## Como ejecutar el código :running:
