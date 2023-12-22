@@ -13,7 +13,8 @@ Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/
 | 3   | [El elfo travieso](https://adventjs.dev/es/challenges/2023/3) | [solución](./src/challenge03.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/8c35cc5b-b1d0-449b-b751-c2246a567534" width="50" height="50" /> | 250    |
 | 4   | [Dale la vuelta a los paréntesis](https://adventjs.dev/es/challenges/2023/4) | [solución](./src/challenge04.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/2024bc98-857a-48ac-a0ca-9c5b42ae9f20" width="50" height="50" /> | 270    |
 | 5   | [El CyberTruck de Santa](https://adventjs.dev/es/challenges/2023/5) | [solución](./src/challenge05.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/a94b33c3-df9b-41aa-9f38-2aa99983d755" width="50" height="50" /> | 270    |
-
+| 6   | [Los renos a prueba](https://adventjs.dev/es/challenges/2023/6) | [solución](./src/challenge06.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/a94b33c3-df9b-41aa-9f38-2aa99983d755" width="50" height="50" /> | 250    |
+| 7   | [Las cajas en 3D](https://adventjs.dev/es/challenges/2023/7) | [solución](./src/challenge07.js) | <img src="https://github.com/wayaba/adventJS-2023/assets/37515166/a94b33c3-df9b-41aa-9f38-2aa99983d755" width="50" height="50" /> | 270    |
 
 ## Como ejecutar el código :running:
 
